@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<project name="maven-antrun-" default="main"  >
-<target name="main">
-  <replace file="/Users/leslie/Downloads/git/hbase-1.3.0/hbase-common/target/classes/hbase-default.xml" value="1.3.0" token="@@@VERSION@@@"/>
-</target>
-</project>
